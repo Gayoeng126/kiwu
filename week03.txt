@@ -1,1 +1,10 @@
 3주차 메모 내용
+
+리눅스 명령어
+clear
+mkdr 폴더이름 
+
+깃 명령어
+git close 원격포지토리주소
+git log --online
+git remote -v
